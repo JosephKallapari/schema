@@ -1,0 +1,8 @@
+type A={
+id:number;
+rates:Rate[];
+};
+
+type Rate ={
+ price:string;
+};
